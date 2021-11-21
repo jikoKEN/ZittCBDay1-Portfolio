@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Roboto&family=Shalimar&display=swap');
+
+/*
+
+target {
+	
+	property: value;
+}
+
+*/
+
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Shalimar', cursive;
+*/
+
+h1 {
+
+	font-family: 'Shalimar', cursive;
+	font-size: 72px;
+
+}
+
+h2 {
+
+	font-family: 'Montserrat', sans-serif;
+	font-size: 35px;
+
+}
+
+*{
+
+	font-family: 'Roboto', sans-serif;
+	
+}
